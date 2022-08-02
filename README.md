@@ -1,8 +1,10 @@
 # Hello world!👋
 
-I'm Riccardo, web developer from Udine, Italy 🇮🇹🇪🇺
+I'm Riccardo, a web developer from Udine, Italy.
 
-### Some technology I use
+### Thinks I love to use
+
+#### Technologies
 
 <p>
 
@@ -19,7 +21,7 @@ I'm Riccardo, web developer from Udine, Italy 🇮🇹🇪🇺
 
 </p>
 
-### Some tools I like to use
+#### Tools
 
 <p>
 
@@ -33,7 +35,7 @@ I'm Riccardo, web developer from Udine, Italy 🇮🇹🇪🇺
 
 </p>
 
-### Where to find me
+### Where you can find me
 
 <p>
     <a href="https://github.com/riccardoFasan" target="_blank">
