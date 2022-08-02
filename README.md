@@ -2,7 +2,7 @@
 
 I'm Riccardo, a web developer from Udine, Italy.
 
-### Thinks I love to use
+### Technologies & tools I use
 
 <p>
 
