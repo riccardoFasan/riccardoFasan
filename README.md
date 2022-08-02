@@ -2,7 +2,7 @@
 
 I'm Riccardo, web developer from Udine, Italy 🇮🇹🇪🇺
 
-## Some technology I use
+### Some technology I use
 
 <p>
 
@@ -19,7 +19,7 @@ I'm Riccardo, web developer from Udine, Italy 🇮🇹🇪🇺
 
 </p>
 
-## Some tools I like to use
+### Some tools I like to use
 
 <p>
 
@@ -33,7 +33,7 @@ I'm Riccardo, web developer from Udine, Italy 🇮🇹🇪🇺
 
 </p>
 
-## Where to find me
+### Where to find me
 
 <p>
     <a href="https://github.com/riccardoFasan" target="_blank">
