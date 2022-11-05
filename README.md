@@ -2,8 +2,6 @@
 
 I'm Riccardo, a web developer from Udine, Italy.
 
-![](https://komarev.com/ghpvc/?username=riccardoFasan)
-
 ### Technologies & tools I use
 
 <p>
